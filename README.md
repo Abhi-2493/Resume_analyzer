@@ -1,2 +1,12 @@
-# Resume_analyzer
-This is a NLP project which analyses resume and predict the job role which the resume focuses
+# Resume Analyzer using NLP
+
+Academic NLP project to analyze resumes.
+
+## Features
+- Resume parsing
+- Skill extraction
+- Job domain prediction
+
+## Run
+pip install -r requirements.txt
+streamlit run app.py
